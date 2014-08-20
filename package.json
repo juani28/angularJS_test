@@ -4,17 +4,16 @@
   "description": "Ejemplo de desarrollo de aplicación web con JavaScript",
   "bugs": {
     "url": "https://github.com/carlosazaustre/ebook-frontend-project/issues",
-    "email": "cazaustre@gmail.com"
+    "email": "jhuarte@gmail.com"
   },
   "license": "MIT",
   "author": {
-    "name": "Carlos Azaustre",
-    "email": "cazaustre@gmail.com",
-    "url": "http://carlosazaustre.es"
+    "name": "Juan Ignacio Huarte",
+    "email": "jhuarte19@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carlosazaustre/ebook-frontend-project"
+    "url": "https://github.com/juani28/angularJS_test"
   },
   "dependencies": {},
   "devDependencies": {
